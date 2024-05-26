@@ -37,6 +37,11 @@ big {
     color:#bebebe;
 } 
 
+a {
+  color: #000;
+  font-family: Karla;
+}
+
 .rs-kath a {
   text-decoration:none;
 }
@@ -268,8 +273,8 @@ text-decoration: none;
   align-items:center;
   justify-content:center;
   display:flex;
-  background: #bebebe;
-  text-transform:uppercase;
+  background: #757575;
+  text-transform:none;
   font-family: playfair display;
   letter-spacing: 5px;
   font-size: 18px;
@@ -287,7 +292,7 @@ text-decoration: none;
 }
 .rs-intit {
   display:flex;
-  border-bottom: 1px solid #666;
+  border-bottom: 1px solid #bebebe;
   color: #bebebe;
   align-items:center;
   font-family: Karla;
